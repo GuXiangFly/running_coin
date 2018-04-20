@@ -1,4 +1,7 @@
 backend/.idea
 backend/target
+backend/.gitingnore
+backend/.mvn
+
 backend/src/main/resources/keystore.p12
 .idea/
